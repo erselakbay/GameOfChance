@@ -1,4 +1,4 @@
-# GameOfChance
+## GameOfChance
 
 -ENG- 
 GameOfChance is program that makes comments on a raffles post on instagram.
@@ -14,7 +14,7 @@ pause
 python seleniuminstagram.py "kullanici adi" "sifre" "cekilis linki" "etiketlenecek isimler" "en az etiket sayisi"
 pause
 
-![image](images/example1)
+![](images/example1)
 
 -ENG- 
 -Change the contents of the .bat file in the folder as in the example image without having to write commands for python with -cmd.
