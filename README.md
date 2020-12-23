@@ -20,7 +20,6 @@ pause
 ![img](images/example1.png)
 
 -ENG- 
-
 -Change the contents of the .bat file in the folder as in the example image without having to write commands for python with -cmd.
 -save the changed file
 -run the .bat file by double clicking on it
