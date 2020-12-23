@@ -20,6 +20,7 @@ pause
 ![img](images/example1.png)
 
 -ENG- 
+
 -Change the contents of the .bat file in the folder as in the example image without having to write commands for python with -cmd.
 -save the changed file
 -run the .bat file by double clicking on it
@@ -28,6 +29,7 @@ Thats All
 Note: All installations related to python and selenium must be completed for the program to work.
 
 -TR-  
+
 -Cmd ile python için komut yazmak zorunda kalmadan, örnek görüntüdeki gibi klasördeki .bat dosyasının içeriğini değiştirin.
 -Değiştirilen dosyayı kaydedin.
 -.bat dosyasını çift tıklayarak çalıştırın
