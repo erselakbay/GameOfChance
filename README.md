@@ -4,6 +4,7 @@
 
 GameOfChance is program that makes comments on a raffles post on instagram.
 It comment under the raffle posts for you, it highly increases your chances of winning. It counteracts all the measures Instagram takes against bot security with "time". 
+
 -TR-
  
 GameOfChance, instagram üzerinde bir çekiliş gönderisine yorum yapan bir programdır.
@@ -19,6 +20,7 @@ pause
 ![img](images/example1.png)
 
 -ENG- 
+
 -Change the contents of the .bat file in the folder as in the example image without having to write commands for python with -cmd.
 -save the changed file
 -run the .bat file by double clicking on it
